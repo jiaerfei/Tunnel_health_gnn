@@ -1,0 +1,6 @@
+﻿Strategy,Object1,Cmin,Cmax,Object2,Lmin,Lmax,Object3,Smin,Smax,Level,Method_C1,Price_C1,Method_C2,Price_C2
+Level5,crack_5,2,100,leakage_5,200000,1000000,spall_5,20000,100000,5,壁后注浆,500,微扰动注浆,1000
+Level4,crack_4,1,2,leakage_4,100000,200000,spall_4,10000,20000,4,粘贴芳纶布,200,钢圈加固,800
+Level3,crack_3,0.5,1,leakage_3,50000,100000,spall_3,5000,10000,3,水泥基注浆,100,钢板粘贴,300
+Level2,crack_2,0.2,0.5,leakage_2,20000,50000,spall_2,2000,5000,2,砂浆涂抹,50,高分子材料,300
+Level1,crack_1,0,0.2,leakage_1,0,20000,spall_1,0,2000,1,不处理,0,水泥注浆,100
