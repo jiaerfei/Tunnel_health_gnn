@@ -26,9 +26,6 @@ Neo4j (https://neo4j.com/docs/operations-manual/current/installation/windows/)
 #### main_tunnel_gnn.py
 GNN输入数据处理、网络搭建、训练与预测
 
-#### utils.py
-用于数据预处理，标签格式转换等
-
 #### 其他为数据、模型最优权重等文件
 
 
